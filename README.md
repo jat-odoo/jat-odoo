@@ -6,7 +6,7 @@
 - Maintaining [Tools 🙈](http://droggol.com/odoo-tools).
 
 
-<a href="https://twitter.com/jat-odoo">
+<a href="https://twitter.com/jdpatel100">
   <img alt="Jigar's Twitter" target="_new" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jdpatel100/">
